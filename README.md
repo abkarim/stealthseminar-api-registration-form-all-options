@@ -1,6 +1,6 @@
 ﻿
 # Stealth Seminar API Registration form
-Registration form using [StealthSeminar](https://stealthseminar.com/) API with almost all available options. This form is by default dynamic. That's mean all fields (with custom fields) will be added automatically, and you are allowed to add more custom fields including hidden field.  **You are not forced follow this process, you can do whatever you want.**
+Registration form using [StealthSeminar](https://stealthseminar.com/) API with almost all available options. This form is by default dynamic. That's mean all fields (with custom fields) will be added automatically, and you are allowed to add more custom fields including hidden field.  **You are not forced to follow this process, you can do whatever you want.**
 
 ## Features
 - Show yesterdays webinar now
