@@ -473,7 +473,7 @@ function submit(e) {
             if (data.yesterdays_now) {
                 window.location = `https://joinnow.live/r/${data.short_id}?id=${data.attendee.short_id}`;
             } else {
-                window.location = `https://joinnow.live/a/${data.webinar_short_id}?id=${data.attendee.short_id}`;
+                window.location = `https://joinnow.live/t/${data.webinar_short_id}?id=${data.attendee.short_id}`;
             }
         })
         .catch((e) => {
